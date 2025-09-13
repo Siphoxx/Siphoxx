@@ -1,4 +1,4 @@
-# 💫 Hi, I am Sipho
+# 💫 Hi, I'm Sipho
 I am a full-stack web developer and software engineer with a focus on creating intuitive user interfaces and robust back-end systems.<br>I have built front-end development projects using HTML, CSS, and JavaScript frameworks like React, along with styling libraries like Tailwind and Boot Strap; and back-ends with Node.js, PHP, and database management with MongoDB, SQL, and MySQL.
 
 
