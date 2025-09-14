@@ -1,6 +1,9 @@
 # 💫 Hi, I'm Sipho
-I am a full-stack web developer and software engineer with a focus on creating intuitive user interfaces and robust back-end systems.<br>I have built front-end development projects using HTML, CSS, and JavaScript frameworks like React, along with styling libraries like Tailwind and Boot Strap; and back-ends with Node.js, PHP, and database management with MongoDB, SQL, and MySQL.
-
+⚡ I'm a full-stack web developer and software engineer with a focus on creating intuitive user interfaces and robust back-end systems. </br>
+  ⚡  Trained and certified by HyperionDev, I specialize in PHP and NodeJS.<img width="50" height="10" alt="HyperionDev-Thumbnail-Image" style="border-radius: 10px;" src="https://github.com/user-attachments/assets/296c5eb5-c690-45df-bc10-8849913c38ac" /> </br>
+🔭 Currently working on: Full-stack projects with a focus on scalable architecture.</br>
+🌱 Always learning: Exploring new technologies to build efficient and elegant solutions.</br>
+📫 How to reach me: smogoleghang@gmail.com</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Sipho Mogolegang](https://www.linkedin.com/in/sipho-mogolegang-85004a29/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smogolegang@gmail.com) 
