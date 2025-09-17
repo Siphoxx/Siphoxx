@@ -4,11 +4,10 @@
 🔭 Currently working on: Full-stack projects with a focus on scalable architecture.</br>
 🌱 Always learning: Exploring new technologies to build efficient and elegant solutions.</br>
 📫 How to reach me: smogoleghang@gmail.com[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smogolegang@gmail.com) </br>
+Mobile: 076787356
 
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<href src=https://www.linkedin.com/in/sipho-mogolegang-85004a29/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sipho-mogolegang-85004a29/)
 
 
