@@ -3,7 +3,7 @@
 ⚡  Trained and certified by HyperionDev, I specialize in PHP and NodeJS.<img width="50" height="10" alt="HyperionDev-Thumbnail-Image" style="border-radius: 10px;" src="https://github.com/user-attachments/assets/296c5eb5-c690-45df-bc10-8849913c38ac" /> </br>
 🔭 Currently working on: Full-stack projects with a focus on scalable architecture.</br>
 🌱 Always learning: Exploring new technologies to build efficient and elegant solutions.</br>
-📫 How to reach me: smogoleghang@gmail.com[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smogolegang@gmail.com) </br>
+📫 How to reach me: smogolegang@gmail.com[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smogolegang@gmail.com) </br>
 Mobile: 076787356
 
 
